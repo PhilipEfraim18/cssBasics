@@ -1,0 +1,10 @@
+.main{
+    background-color: blue;
+    color: white;
+}
+#content td:nth-child(odd){
+     background-color: gray;
+}
+#content td:nth-child(odd){
+    background-color: white;
+}
