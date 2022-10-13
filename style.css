@@ -1,10 +1,16 @@
-.main{
-    background-color: blue;
-    color: white;
+th{
+    background-color: #427fef;
+    color: aliceblue;
+    text-align: left;
 }
-#content td:nth-child(odd){
-     background-color: gray;
+table {
+    border-bottom: 1px solid #c4dcf3 ;
+    border-top: 1px solid #c4dcf3;
+    border-collapse: collapse;
 }
-#content td:nth-child(odd){
-    background-color: white;
+tr:nth-child(Even){
+    background-color: gray;
+}
+tr:nth-child(Odd){
+   background-color: white;
 }
